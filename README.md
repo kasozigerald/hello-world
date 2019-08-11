@@ -1,2 +1,3 @@
-# hello-world
-this is my very first project on github
+<?php>
+echo "hello world, this gerald on github";
+?>
